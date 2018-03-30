@@ -19,11 +19,11 @@
                 <key>bundle-identifier</key>
                 <string>io.dcloud.H5797801D</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>itsm.ipa</string>
+                <string>ITSM APP downLoad</string>
             </dict>
         </dict>
     </array>
