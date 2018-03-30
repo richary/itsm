@@ -13,6 +13,24 @@
 					<key>url</key>
 					<string>http://112.74.15.141:8080/ypec/itsm.ipa</string>
 				</dict>
+				
+				<dict>  
+				    <key>kind</key>  
+				    <string>full-size-image</string>  
+				    <key>needs-shine</key>  
+				    <true/>
+				    <key>url</key>  
+				    <string>http://112.74.15.141:8080/ypec/images/ITSM.png</string>  
+				</dict>  
+				<dict>  
+				    <key>kind</key>  
+				    <string>display-image</string>  
+				    <key>needs-shine</key>  
+				    <true/>  
+				    <key>url</key>  
+				    <string>http://112.74.15.141:8080/ypec/images/ITSM.png</string>  
+				</dict> 
+				
 			</array>
 			<key>metadata</key>
 			<dict>
