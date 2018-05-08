@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://112.74.15.141:8080/ypec/itsm.ipa</string>
+					<string>http://112.74.15.141/ypec/itsm.ipa</string>
 				</dict>
 				
 				<dict>  
@@ -20,7 +20,7 @@
 				    <key>needs-shine</key>  
 				    <true/>
 				    <key>url</key>  
-				    <string>http://112.74.15.141:8080/ypec/images/ITSM.png</string>  
+				    <string>http://112.74.15.141/ypec/images/ITSM.png</string>  
 				</dict>  
 				<dict>  
 				    <key>kind</key>  
@@ -28,7 +28,7 @@
 				    <key>needs-shine</key>  
 				    <true/>  
 				    <key>url</key>  
-				    <string>http://112.74.15.141:8080/ypec/images/ITSM.png</string>  
+				    <string>http://112.74.15.141/ypec/images/ITSM.png</string>  
 				</dict> 
 				
 			</array>
