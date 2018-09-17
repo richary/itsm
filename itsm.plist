@@ -35,7 +35,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>io.dcloud.H5797801D</string>
+				<string>com.neusoft.socITSM</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
